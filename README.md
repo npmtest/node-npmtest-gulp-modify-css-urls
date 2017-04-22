@@ -101,7 +101,8 @@
         "coveralls": "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js",
         "test": "gulp test"
     },
-    "version": "0.2.2"
+    "version": "0.2.2",
+    "bin": {}
 }
 ```
 
